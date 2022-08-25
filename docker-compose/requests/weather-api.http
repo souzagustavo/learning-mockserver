@@ -1,0 +1,2 @@
+GET http://localhost:1080/api/v1/weather?code=10969
+
